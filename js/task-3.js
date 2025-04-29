@@ -6,3 +6,4 @@ inputEl.addEventListener('input', () => {
 
   outputEl.textContent = trimmedValue === '' ? 'Anonymous' : trimmedValue;
 });
+
